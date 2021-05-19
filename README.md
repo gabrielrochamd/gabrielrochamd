@@ -1,21 +1,21 @@
 # Gabriel Rocha
 
-Freelancer Fullstack Developer
+Front-end Developer
 
-[![Twitter Badge](https://img.shields.io/badge/-@gabrielmsrc-91091e?style=flat-square&labelColor=91091e&logo=twitter&logoColor=white&link=https://twitter.com/gabrielmsrc)](https://twitter.com/gabrielmsrc)
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-91091e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-m-rocha/)](https://www.linkedin.com/in/gabriel-m-rocha/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielmrocha@outlook.com.br-91091e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmrocha@outlook.com.br)](mailto:gabrielmrocha@outlook.com.br)
-[![Instagram Badge](https://img.shields.io/badge/-@gabrielmsrc-91091e?style=flat-square&labelColor=91091e&logo=instagram&logoColor=white&link=https://instagram.com/gabrielmsrc)](https://instagram.com/gabrielmsrc)
+[![Twitter Badge](https://img.shields.io/badge/-@gabrielmsrc-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gabrielmsrc)](https://twitter.com/gabrielmsrc)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-0e76a8?style=flat-square&labelColor=0e76a8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-m-rocha/)](https://www.linkedin.com/in/gabriel-m-rocha/)
+[![Outlook Badge](https://img.shields.io/badge/-gabrielmrocha@outlook.com.br-0072c6?style=flat-square&labelColor=0072c6&logo=microsoft-outlook&logoColor=white&link=mailto:gabrielmrocha@outlook.com.br)](mailto:gabrielmrocha@outlook.com.br)
+[![Instagram Badge](https://img.shields.io/badge/-@gabrielrocha.dev-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://instagram.com/gabrielrocha.dev)](https://instagram.com/gabrielrocha.dev)
 
 ## Who am I?
 
-I'm a Freelancer Fullstack Developer, passionate about all fields of this beautiful world of computation. Now, studying front-end development in ReactJS and Android native development on my free time.
+I'm a Front-end Developer with Bachelor degree in Computer Science, passionate about all fields of this beautiful world of computation.
 
 ## What am I working on right now?
 
-<img alt="Banner with Next Level Week logo" src="images/NLW04.png">
+I'm working in some freelance projects using the stack React/Typescript and studying Python in my free time.
 
-Right now, I am participating in an event called [Next Level Week](https://nextlevelweek.com), from [@Rocketseat](https://github.com/Rocketseat). Next Level Week is an event to learn, in a practical way, many programming concepts and tools while building a complete project using all of them.
+## Quote
 
 > “Live as if you were to die tomorrow. Learn as if you were to live forever.”
 > 
