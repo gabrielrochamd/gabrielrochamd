@@ -2,10 +2,9 @@
 
 Front-end Developer
 
-[![Twitter Badge](https://img.shields.io/badge/-@gabrielmsrc-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gabrielmsrc)](https://twitter.com/gabrielmsrc)
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-0e76a8?style=flat-square&labelColor=0e76a8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-m-rocha/)](https://www.linkedin.com/in/gabriel-m-rocha/)
-[![Outlook Badge](https://img.shields.io/badge/-gabrielmrocha@outlook.com.br-0072c6?style=flat-square&labelColor=0072c6&logo=microsoft-outlook&logoColor=white&link=mailto:gabrielmrocha@outlook.com.br)](mailto:gabrielmrocha@outlook.com.br)
-[![Instagram Badge](https://img.shields.io/badge/-@gabrielrocha.dev-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://instagram.com/gabrielrocha.dev)](https://instagram.com/gabrielrocha.dev)
+[![Twitter Badge](https://img.shields.io/badge/-@gabrielrochamd-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gabrielrochamd)](https://twitter.com/gabrielrochamd)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-0e76a8?style=flat-square&labelColor=0e76a8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrochamd/)](https://www.linkedin.com/in/gabrielrochamd/)
+[![Instagram Badge](https://img.shields.io/badge/-@gabrielrochamd-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://instagram.com/gabrielrochamd)](https://instagram.com/gabrielrochamd)
 
 ## Who am I?
 
