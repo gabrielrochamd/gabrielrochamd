@@ -4,18 +4,24 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@gabrielrochamd-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gabrielrochamd)](https://twitter.com/gabrielrochamd)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-0e76a8?style=flat-square&labelColor=0e76a8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrochamd/)](https://www.linkedin.com/in/gabrielrochamd/)
-[![Instagram Badge](https://img.shields.io/badge/-@gabrielrochamd-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://instagram.com/gabrielrochamd)](https://instagram.com/gabrielrochamd)
 
-## Who am I?
+Hello World! My name is Gabriel Rocha. I am a frontend developer from **São Gonçalo**:brazil: living in **Brasília**:brazil:. I have Bachelor's degree in Computer Science from Unicarioca and I am passionate about tech. My main technologies are Reach and Typescript and in my free time I like to participate in coding competitions and solve algorithmic problems.
 
-I'm a Front-end Developer with Bachelor degree in Computer Science, passionate about all fields of this beautiful world of computation.
+## Work experience
+[<img align="left" alt="Banco do Brasil" src="https://pbs.twimg.com/profile_images/1509649873817288709/5iDS0EdZ_400x400.jpg" width="72" />](https://www.bb.com.br)
 
-## What am I working on right now?
+**Technology Agent (Mar 2022 - Present)**  
+[**Banco do Brasil**](https://www.bb.com.br)  
+<br />
 
-I'm working in some freelance projects using the stack React/Typescript and studying Python in my free time.
+[<img align="left" alt="Comissão de Valores Mobiliários" src="https://pbs.twimg.com/profile_images/1477289300043706370/eJ9qSZP5_400x400.jpg" width="72" />](https://www.gov.br/cvm)
 
-## Quote
+**.NET Developer Intern (Jul 2018 - Jun 2020)**          
+[**Comissão de Valores Mobiliários**](https://www.gov.br/cvm)  
+`.NET` `C#` `Visual Basic .NET` `Javascript` `CSS` `HTML`
 
-> “Live as if you were to die tomorrow. Learn as if you were to live forever.”
-> 
-> — Mahatma Gandhi
+## Github Stats
+![Gabriel Rocha's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielrochamd&amp;show_icons=true&theme=dark)
+
+## Most used languages
+![Gabriel Rocha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochamd&layout=compact&theme=dark)
