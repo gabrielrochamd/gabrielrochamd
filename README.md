@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@gabrielrochamd-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gabrielrochamd)](https://twitter.com/gabrielrochamd)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-0e76a8?style=flat-square&labelColor=0e76a8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrochamd/)](https://www.linkedin.com/in/gabrielrochamd/)
 
-Hello World! My name is Gabriel Rocha. I am a frontend developer from **São Gonçalo**:brazil: living in **Brasília**:brazil:. I have Bachelor's degree in Computer Science from Unicarioca and I am passionate about tech. My main technologies are Reach and Typescript and in my free time I like to participate in coding competitions and solve algorithmic problems.
+Hello World! My name is Gabriel Rocha. I am a frontend developer from **São Gonçalo**:brazil: living in **Brasília**:brazil:. I have Bachelor's degree in Computer Science from Unicarioca and I am passionate about tech. My main technologies are React and Typescript and in my free time I like to participate in coding competitions and solve algorithmic problems.
 
 ## Work experience
 [<img align="left" alt="Banco do Brasil" src="https://pbs.twimg.com/profile_images/1509649873817288709/5iDS0EdZ_400x400.jpg" width="72" />](https://www.bb.com.br)
