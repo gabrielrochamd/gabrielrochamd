@@ -1,7 +1,5 @@
 # Gabriel Rocha
 
-### Computer Scientist
-
 [![Twitter Badge](https://img.shields.io/badge/-@gabrielrochamd-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gabrielrochamd)](https://twitter.com/gabrielrochamd)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rocha-0e76a8?style=flat-square&labelColor=0e76a8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrochamd/)](https://www.linkedin.com/in/gabrielrochamd/)
 
