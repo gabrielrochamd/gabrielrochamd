@@ -6,13 +6,13 @@
 Hello World! My name is Gabriel Rocha. I am a frontend developer from **São Gonçalo**:brazil: living in **Brasília**:brazil:. I have Bachelor's degree in Computer Science from Unicarioca and I am passionate about tech. My main technologies are React and Typescript and in my free time I like to participate in coding competitions and solve algorithmic problems.
 
 ## Work experience
-[<img align="left" alt="Banco do Brasil" src="https://pbs.twimg.com/profile_images/1509649873817288709/5iDS0EdZ_400x400.jpg" width="72" />](https://www.bb.com.br)
+[<img align="left" alt="Banco do Brasil" src="./images/cvm.jpg" width="72" />](https://www.bb.com.br)
 
 **Technology Agent (Mar 2022 - Present)**  
 [**Banco do Brasil**](https://www.bb.com.br)  
 `React Native` `Typesscript` `Javascript`
 
-[<img align="left" alt="Comissão de Valores Mobiliários" src="https://pbs.twimg.com/profile_images/1477289300043706370/eJ9qSZP5_400x400.jpg" width="72" />](https://www.gov.br/cvm)
+[<img align="left" alt="Comissão de Valores Mobiliários" src="./images/banco-do-brasil.png" width="72" />](https://www.gov.br/cvm)
 
 **.NET Developer Intern (Jul 2018 - Jun 2020)**          
 [**Comissão de Valores Mobiliários**](https://www.gov.br/cvm)  
