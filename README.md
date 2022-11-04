@@ -10,7 +10,7 @@ Hello World! My name is Gabriel Rocha. I am a frontend developer from **São Gon
 
 **Technology Agent (Mar 2022 - Present)**  
 [**Banco do Brasil**](https://www.bb.com.br)  
-<br />
+`React Native` `Typesscript` `Javascript`
 
 [<img align="left" alt="Comissão de Valores Mobiliários" src="https://pbs.twimg.com/profile_images/1477289300043706370/eJ9qSZP5_400x400.jpg" width="72" />](https://www.gov.br/cvm)
 
