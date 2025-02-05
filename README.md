@@ -14,6 +14,3 @@ Hello World! My name is Gabriel Rocha. I am a frontend developer from Brazil. I 
 **.NET Developer Intern (Jul 2018 - Jun 2020)**          
 [**Comissão de Valores Mobiliários**](https://www.gov.br/cvm)  
 `.NET` `C#` `Visual Basic .NET` `Javascript` `CSS` `HTML`
-
-## Most used languages
-![Gabriel Rocha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochamd&layout=compact&theme=dark)
