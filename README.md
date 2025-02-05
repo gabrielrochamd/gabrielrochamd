@@ -15,8 +15,5 @@ Hello World! My name is Gabriel Rocha. I am a frontend developer from Brazil. I 
 [**Comissão de Valores Mobiliários**](https://www.gov.br/cvm)  
 `.NET` `C#` `Visual Basic .NET` `Javascript` `CSS` `HTML`
 
-## Github Stats
-![Gabriel Rocha's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielrochamd&amp;show_icons=true&theme=dark)
-
 ## Most used languages
 ![Gabriel Rocha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochamd&layout=compact&theme=dark)
